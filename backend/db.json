@@ -1,6 +1,29 @@
 {
-    "cats": [{
-        "name": "gato",
-        "id": 1
-    }]
+  "cats": [
+    {
+      "name": "Ipa",
+      "id": 1,
+      "descripcion": "Es una gata tricolor que le gusta jugar"
+    },
+    {
+      "name": "Salem",
+      "id": 2,
+      "descripcion": "Es una gata negra que le gusta jugar"
+    },
+    {
+      "name": "Chuleta",
+      "id": 3,
+      "descripcion": "Es un gato tuxedo que le gusta jugar"
+    },
+    {
+      "name": "Chipa",
+      "id": 4,
+      "descripcion": "Es un gato tuxedo que le gusta dormir"
+    },
+    {
+      "name": "Marie",
+      "id": 5,
+      "descripcion": "Es una gata calicó que le gusta dormir"
+    }
+  ]
 }
